@@ -10,7 +10,7 @@
     margin: 0 auto;
 }
 .header_wrapper{
-    background: url(/image/fon1.jpg) center/cover no-repeat;
+    background: url(../image/fon1.jpg) center/cover no-repeat;
 }
 .header{
     height: 545px;
